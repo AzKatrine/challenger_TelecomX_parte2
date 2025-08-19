@@ -1,7 +1,5 @@
 <h1>💡 Detecção de Churn: Pipeline de Machine Learning para Retenção de Clientes</h1>
 
-![Capa do Projeto](assets/cover.svg)
-
 <h3 align="center">
   🔮 Análise preditiva de churn para antecipar cancelamentos e orientar ações de retenção — pipeline robusto com validação, explicabilidade e métricas de negócio.
 </h3>
